@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/student/EIM/Laborator07/solutions/PracticalTest02/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/student/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-rc02.aar/cdaf93383d09e0934a3aecff9bb9d5c3/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
